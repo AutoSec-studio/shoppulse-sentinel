@@ -1,6 +1,15 @@
 # ShopPulse Sentinel Lite 🛡️
 
 > **Lightweight E-Commerce Checkout Healthcheck & Telegram Alert Watchdog**
+> <p align="left">
+  <a href="https://github.com/AutoSec-studio/shoppulse-sentinel"><img src="https://img.shields.io/badge/python-3.10+-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License"></a>
+  <a href="https://github.com/AutoSec-studio/shoppulse-sentinel"><img src="https://img.shields.io/badge/tests-13%20passed-brightgreen?style=flat-square&logo=pytest" alt="Tests"></a>
+  <a href="https://github.com/AutoSec-studio/shoppulse-sentinel"><img src="https://img.shields.io/badge/docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://t.me/autosec_studio"><img src="https://img.shields.io/badge/Telegram-@autosec__studio-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://whop.com/autosec/"><img src="https://img.shields.io/badge/Whop_Store-Get_Pro_$10-FF5C00?style=flat-square&logo=whop&logoColor=white" alt="Whop"></a>
+  <a href="https://payhip.com/b/fZx6v"><img src="https://img.shields.io/badge/Payhip-Get_Pro_$10-00D2FF?style=flat-square" alt="Payhip"></a>
+</p>
 
 An open-core monitoring utility engineered to audit critical e-commerce checkout URLs and dispatch immediate Telegram alerts when downtime or payment connectivity failures occur.
 
